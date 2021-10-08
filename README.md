@@ -1,4 +1,4 @@
-# Scanner
+# Scanner   para acessar o video https://www.youtube.com/watch?v=YU8YCYMC4rc
 trabalho python  de port scanning
 # 1°TDCF cybersecurity
 # nome dos integrantes Ariel Levi RM87502 // Rafael Del Padre 86851
